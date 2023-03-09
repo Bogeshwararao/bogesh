@@ -1,7 +1,7 @@
 import React from "react";
 import Typed from "react-typed";
-import BlogCard from "../Components/BlogCard"
-import BlogData from "../Components/BlogData"
+// import BlogCard from "../Components/BlogCard"
+// import BlogData from "../Components/BlogData"
 import IconCard from "../Components/Iconcard";
 import Aos from "aos";
 import 'aos/dist/aos.css';
