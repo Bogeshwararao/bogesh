@@ -20,7 +20,7 @@ const Projects = () => {
           strings={["Projects..."]}
           typeSpeed={40}
         /> */}
-        <h1>Projects</h1>
+        <h1 className="typed d-flex justify-content-center font-weight-bold">Projects</h1>
       </div>
       <div className="container-fluid mb-5">
         <div className="row">
