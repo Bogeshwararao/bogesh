@@ -1,7 +1,7 @@
 import React from 'react'
 // import Typed from "react-typed";
 import main from "../Images/main.png";
-import IconCard from "../Components/Iconcard";
+import IconCard from "../Components/IconCard";
 import Aos from "aos";
 import 'aos/dist/aos.css';
 import { useEffect } from 'react';
