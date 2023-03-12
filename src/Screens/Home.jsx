@@ -1,5 +1,5 @@
 import React from 'react'
-import Typed from "react-typed";
+// import Typed from "react-typed";
 import main from "../Images/main.png";
 import IconCard from "../Components/Iconcard";
 import Aos from "aos";
@@ -23,11 +23,12 @@ const Home = () => {
                 <img src={main} alt="home" className="img-fluid animated" />
               </div>
               <div className=" order-lg-2 header-img pt-4" >
-                <Typed
+                {/* <Typed
                   className="typed "
                   strings={["Hi" , "I'am Bogesh."]}
                   typeSpeed={80}
-                />
+                /> */}
+                <h1>Hi , I am Bogesh</h1>
               <div data-aos="fade-up">
                 <h2 >A Enthusiastic Web developer.</h2>
                 </div>
