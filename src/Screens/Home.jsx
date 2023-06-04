@@ -49,7 +49,7 @@ const Home = () => {
                 </div> */}
                 <br></br>
                 <br></br>
-                 <h2 data-aos="fade-up" >Contact me.</h2>
+                 <h2  >Contact me.</h2>
                  <br></br>
                       <div className="d-flex justify-content-center">
                         <IconCard  
