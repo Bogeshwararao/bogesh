@@ -1,6 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
+import Resume from "../Images/BogeshwararaoResume.pdf"
 // import NavDropdown from 'react-bootstrap/NavDropdown';
 import { BrowserRouter ,
   Routes,
@@ -26,6 +27,12 @@ function CollapsibleExample() {
             <Nav.Link as={Link} to="/Project"  className='nav-item'>Project</Nav.Link>
             <Nav.Link as={Link} to="/Blog"  className='nav-item'>Blog</Nav.Link>
           </Nav>
+          <button className="button"  class="btn btn-outline-dark">
+    <a className="button" href={Resume} download = "BogeshwararaoResume.pdf">
+       Resume
+    </a>
+  
+</button>
         </Navbar.Collapse>
       </Container>
     </Navbar>

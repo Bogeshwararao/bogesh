@@ -56,6 +56,11 @@ body{
 a { 
   text-decoration: none; 
 }
+.button{
+  border: none;
+  color: white;
+  text-decoration: none;
+}
 
 
 /**************NAVBAR***************/
