@@ -14,7 +14,7 @@ const ProjectData = [
   },
   {
     title: "Portfolio",
-    description:"I are excited to announce the recent launch of a website I developed for showcase My work.The website was built using the React.js and Bootstrap frameworks to provide a responsive.Overall, we believe that the combination of React.js and Bootstrap has allowed us to create a fast,and user-friendly website",
+    description:"I am excited to announce the recent launch of a website I developed for showcase My work.The website was built using the React.js and Bootstrap frameworks to provide a responsive.Overall, we believe that the combination of React.js and Bootstrap has allowed us to create a fast,and user-friendly website",
     repo: "https://github.com/Bogeshwararao/bogesh",
     imgsrc: Portfolio,
   },
