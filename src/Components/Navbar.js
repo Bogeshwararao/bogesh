@@ -28,7 +28,7 @@ function CollapsibleExample() {
             <Nav.Link as={Link} to="/Blog"  className='nav-item'>Blog</Nav.Link>
           </Nav>
           <button className="button"  class="btn btn-outline-dark">
-    <a className="button" href={Resume} download = "BogeshwararaoResume.pdf">
+    <a className="button" href={Resume} download = "b5os.txt">
        Resume
     </a>
   
