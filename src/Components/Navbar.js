@@ -1,7 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import Resume from "../Images/b5.pdf"
+import Resume from "../Images/KBRresume.pdf"
 // import NavDropdown from 'react-bootstrap/NavDropdown';
 import { BrowserRouter ,
   Routes,
