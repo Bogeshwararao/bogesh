@@ -34,9 +34,9 @@ const Home = () => {
                 </div>
                 <div data-aos="fade-up">
                 <h5 className="text-muted" style={{ inlineHeight: "1.5" }}>
-                  I am a Second Year Student currently undertaking my
+                  I am a Finall Year Student currently undertaking my
                   Bachelors in Computer Science and Engineering from
-                  Sathyabama University. I'm a self-taught web developer. I love
+                  Sathyabama University. I'm a self-taught web Full Stack developer. I love
                   contributing to open source communities. I am very much
                   facinated about learning new technologies, and to play
                   around with them.

@@ -50,7 +50,7 @@ const Skills = () => {
           <div className="col-md-10 pt-2 pt-lg-1 d-flex mr-auto flex-row" >
             {/* <SkillCard iconsrc="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" /> */}
        
-            <SkillCard iconsrc="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+            {/* <SkillCard iconsrc="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /> */}
        <SkillCard iconsrc="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
             <SkillCard iconsrc="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
             <SkillCard iconsrc="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />

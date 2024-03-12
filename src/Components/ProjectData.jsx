@@ -8,7 +8,7 @@ const ProjectData = [
   {
     title: "Guide Selection Portal",
     description:
-    "I have successfully developed a user-friendly guide portal for Sathyabama University, enabling seamless online selection of guides for everyone.",
+    "The Guide Selection Portal streamlines mentor-student connections for projects. It simplifies guide selection with mentor data such as name, email, and domain. The portal prevents duplicate registrations, ensuring accurate guide assignments. It securely stores project details and allows easy document uploads and updates. Students can access mentor reviews, fostering efficient collaboration and project excellence. The user-friendly interface transforms the mentor-student dynamic, promoting seamless communication and precision in assignments.",
     repo: "",
     imgsrc: Guideselection,
   },
